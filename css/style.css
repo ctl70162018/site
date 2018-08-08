@@ -3,12 +3,14 @@ h1 {
   color: red;
   font-family: Helvetica;
   text-transform: uppercase;
+  text-align: justify;
 }
 
 h2 {
  color: red;
   font-family: Helvetica;
   text-transform: uppercase;
+  text-align: justify;
 }
 p {
  font-family: Helvetica; 
