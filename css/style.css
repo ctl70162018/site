@@ -4,6 +4,10 @@ h1 {
   font-family: Helvetica;
   padding: 1em;
   text-align: justify;
+  
+  @media (max-width: 250px) {
+    font-size: 14vw;
+  }
 }
 
 h4 {
