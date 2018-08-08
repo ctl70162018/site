@@ -2,14 +2,14 @@
 h1 {
   color: red;
   font-family: Helvetica;
-  
+  padding: 1em;
   text-align: justify;
 }
 
 h2 {
  color: red;
   font-family: Helvetica;
- 
+ padding: 1em;
   text-align: justify;
 }
 p {
