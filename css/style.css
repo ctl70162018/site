@@ -25,7 +25,8 @@ a {
   color: black;
   text-decoration: underline;
   
-  &:hover {
+  a:hover {
+    color: black;
     opacity: .6;
   }
 }
