@@ -5,6 +5,11 @@ h1 {
   text-transform: uppercase;
 }
 
+h2 {
+ color: red;
+  font-family: Helvetica;
+  text-transform: uppercase;
+}
 p {
  font-family: Helvetica; 
 }
