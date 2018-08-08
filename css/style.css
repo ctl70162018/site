@@ -2,6 +2,7 @@
 h1 {
   color: red;
   font-family: Helvetica;
+  max-width: 100%;
   padding: 1em;
   text-align: justify;
   
