@@ -3,6 +3,7 @@ h1 {
   color: red;
   font-family: Helvetica;
   max-width: 100%;
+  max-height: 60%;
   padding: 1em;
   text-align: justify;
   
